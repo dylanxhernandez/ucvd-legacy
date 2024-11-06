@@ -20,10 +20,6 @@ The source code for this project is for demonstration and reference. This projec
 - `Right bottom corner of screen` - use this area of the screen to move the crosshairs to aim. 
 - `Center bottom of screen` - use this area of the screen to shoot projectiles. 
 
-
-## Play a Demo Online
-You can experience the game through the following demo link [here](https://ucvd-legacy.netlify.app).
-
 ## Play Locally
 
 ### Play Directly in Your Browser
