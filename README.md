@@ -1,5 +1,7 @@
 # UCVD Legacy
 
+> **Note: This project is no longer actively maintained, and the host URL endpoint is no longer active. It has been archived for historical purposes. Feel free to explore the code, but please note that it is no longer in use or supported.**
+
 Ultimate Cats vs Dogs is an HTML5 game created in 2014 for fun. The game was originally created in Gamemaker Studio but since has been converted into a regular HTML5 game. No special frameworks were used to build the game. The premise of the game is that cats and dogs battle each other in tanks. You, the player select one side to play as and then engage in a tank battle. 
 
 This game can be played both on the desktop and on mobile devices. It is also possible to port the source code to Android and iOS using tools such as [CapacitorJs](https://capacitorjs.com/). 
